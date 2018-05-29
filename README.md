@@ -1,1 +1,3 @@
 # kaggle
+
+titanic survivor prediction.
